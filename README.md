@@ -1,6 +1,21 @@
 # aplikasi_pertama
 
-A new Flutter project.
+## Tujuan
+Proyek ini dibuat sebagai aplikasi Flutter untuk memenuhi kebutuhan pembelajaran pada mata kuliah pemrograman mobile.
+
+## Rencana Fitur
+- Fitur utama aplikasi
+- Navigasi antar halaman
+- Tampilan antarmuka pengguna
+- Pengelolaan data aplikasi
+
+## Cara Menjalankan
+1. Pastikan Flutter sudah terinstall.
+2. Buka terminal pada folder proyek.
+3. Jalankan perintah:
+   flutter pub get
+4. Jalankan aplikasi dengan:
+   flutter run
 
 ## Getting Started
 
